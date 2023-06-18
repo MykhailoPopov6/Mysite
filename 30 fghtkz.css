@@ -1,0 +1,57 @@
+body{
+background-color: purple;
+}
+
+
+
+p{
+border: solid 10 px purple;
+display: inline;
+}
+span{
+border: dotted 5px solid;
+display: inline;
+}
+li{
+border:dashed 5px lime;
+display: inline;
+}
+li:hover{
+background-color: lightseagreen;
+
+}
+#first{
+border: double 10 px fuchsia;
+width: 300px;
+height: 300px;
+margin-left: 100 px;
+padding: 100px;
+
+
+
+
+}
+#second{
+width: 300px;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 100px;
+}
+#third{
+width: 500px;
+height: 500px;
+border: groove 10px blanchedalmond;
+
+
+
+
+}
+#fourth{
+height: 500px:
+width:500px;
+border: solid 30px;
+border-top: dotted 10px pink ;
+border-bottom: dotted 10px yellow;
+}

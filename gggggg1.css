@@ -1,0 +1,10 @@
+ul, ol{
+	font-size: 24px;
+	color:darkred;
+}
+ul li: :marker{
+color: yellow
+}
+.mr li{
+	padding-left: 10px;
+}
